@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/lfomar1/practice-jest/issues"
   },
-  "homepage": "https://github.com/lfomar1/practice-jest#readme"
+  "homepage": "https://github.com/lfomar1/practice-jest#readme",
+  "devDependencies": {
+    "@babel/core": "^7.22.9",
+    "@babel/preset-env": "^7.22.9",
+    "babel-jest": "^29.6.2"
+  }
 }
